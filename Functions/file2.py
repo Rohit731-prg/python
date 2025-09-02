@@ -52,7 +52,7 @@ while (is_loop):
         exit()
 
     if (ch == 1):
-        myFun.max_min_element(arr, limit)
+        myFun.max_min_element(arr)
     elif (ch == 2):
         myFun.reverce_linkList(arr)
     elif (ch == 3):
