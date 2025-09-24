@@ -23,7 +23,7 @@ Python Program to Check Whether a String is Palindrome or Not -done
 Python Program to Remove Punctuations From a String
 Python Program to Sort Words in Alphabetic Order
 Python Program to Illustrate Different Set Operations
-Python Program to Count the Number of Each Vowel
+Python Program to Count the Number of Each Vowel -done
 Python Program to Merge Mails
 Python Program to Find the Size (Resolution) of a Image
 Python Program to Find Hash of File
