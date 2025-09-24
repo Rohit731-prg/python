@@ -4,7 +4,7 @@ Python Program to Find Armstrong Number in an Interval -done
 Python Program to Find the Sum of Natural Numbers -done
 Python Program to Display Powers of 2 Using Anonymous Function -done
 Python Program to Find Numbers Divisible by Another Number -done
-Python Program to Convert Decimal to Binary, Octal and Hexadecimal
+Python Program to Convert Decimal to Binary, Octal and Hexadecimal -done
 Python Program to Find ASCII Value of Character
 Python Program to Find HCF or GCD -done
 Python Program to Find LCM -done
@@ -13,9 +13,9 @@ Python Program to Make a Simple Calculator -done
 Python Program to Shuffle Deck of Cards
 Python Program to Display Calendar -done
 Python Program to Display Fibonacci Sequence Using Recursion
-Python Program to Find Sum of Natural Numbers Using Recursion
-Python Program to Find Factorial of Number Using Recursion
-Python Program to Convert Decimal to Binary Using Recursion
+Python Program to Find Sum of Natural Numbers Using Recursion - done
+Python Program to Find Factorial of Number Using Recursion -done
+Python Program to Convert Decimal to Binary Using Recursion -done
 Python Program to Add Two Matrices
 Python Program to Transpose a Matrix
 Python Program to Multiply Two Matrices
