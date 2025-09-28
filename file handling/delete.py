@@ -1,4 +1,5 @@
 import os
+print(dir(os))
 
 if (os.path.exists("./files/file3.txt")):
     try:

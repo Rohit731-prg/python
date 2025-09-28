@@ -1,7 +1,7 @@
 import os
 
-sourse_file = "./files/noice.txt"
-destination_file = "./files/noice2.txt"
+sourse_file = "./files/noice2.txt"
+destination_file = "./files/noice.txt"
 
 try:
     os.rename(sourse_file, destination_file)
