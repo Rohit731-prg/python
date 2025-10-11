@@ -57,21 +57,21 @@ Python Program to Create a Long Multiline String
 Python Program to Extract Extension From the File Name
 Python Program to Measure the Elapsed Time in Python
 Python Program to Get the Class Name of an Instance
-Python Program to Convert Two Lists Into a Dictionary
+Python Program to Convert Two Lists Into a Dictionary - done
 Python Program to Differentiate Between type() and isinstance()
-Python Program to Trim Whitespace From a String
+Python Program to Trim Whitespace From a String - done
 Python Program to Get the File Name From the File Path
 Python Program to Represent enum
-Python Program to Return Multiple Values From a Function
-Python Program to Get Line Count of a File
-Python Program to Differentiate Between del, remove, and pop on a List
-Python Program to Find All File with .txt Extension Present Inside a Directory
-Python Program to Get File Creation and Modification Date
+Python Program to Return Multiple Values From a Function - done
+Python Program to Get Line Count of a File - done
+Python Program to Differentiate Between del, remove, and pop on a List - done
+Python Program to Find All File with .txt Extension Present Inside a Directory - done
+Python Program to Get File Creation and Modification Date - done
 Python Program to Get the Full Path of the Current Working Directory - done
 Python Program to Iterate Through Two Lists in Parallel
-Python Program to Check the File Size
+Python Program to Check the File Size - done
 Python Program to Reverse a Number - done
-Python Program to Compute the Power of a Number
+Python Program to Compute the Power of a Number - done
 Python Program to Count the Number of Digits Present In a Number - done
 Python Program to Check If Two Strings are Anagram - done
 Python Program to Capitalize the First Character of a String - done
