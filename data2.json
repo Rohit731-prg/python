@@ -1,0 +1,32 @@
+{
+    "student1": {
+        "ID": 1,
+        "Name": "Rohit",
+        "Age": 25,
+        "City": "Delhi"
+    },
+    "student2": {
+        "ID": 2,
+        "Name": "Indroit",
+        "Age": 25,
+        "City": "Habra"
+    },
+    "student3": {
+        "ID": 3,
+        "Name": "Rakesh",
+        "Age": 25,
+        "City": "Guma"
+    },
+    "student4": {
+        "ID": 4,
+        "Name": "Abinash",
+        "Age": 25,
+        "City": "Bira"
+    },
+    "student5": {
+        "ID": 5,
+        "Name": "kakhat",
+        "Age": 25,
+        "City": "Barasat"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "student1":{
+        "0":1,
+        "1":"Rohit",
+        "2":25,
+        "3":"Delhi"
+    },
+    "student2":{"0":2,"1":"Indroit","2":25,"3":"Habra"},
+    "student3":{"0":3,"1":"Rakesh","2":25,"3":"Guma"},
+    "student4":{"0":4,"1":"Abinash","2":25,"3":"Bira"},
+    "student5":{"0":5,"1":"kakhat","2":25,"3":"Barasat"}
+}
