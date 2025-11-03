@@ -14,4 +14,5 @@ print(df)
 print("----------------------------------")
 
 print(df.isnull())
+print("--------------------------------")
 print(df.isnull().sum())
