@@ -1,5 +1,4 @@
 import numpy as np
-import matplotlib.pyplot as plb
 
 sales_data = np.array([
     [1, 15000, 18000, 22000, 25000],
@@ -10,6 +9,7 @@ sales_data = np.array([
 ])
 
 print("Sales Data shape: ", sales_data.shape)
+print("1st resturent data: \n", sales_data[0, 1:])
 print("1st 3 resturent data: \n", sales_data[0:3, 1:])
 print("Total sales: \n", np.sum(sales_data[:, 1:], axis=0))
 print("Minimun sales per resturent: ", np.min(sales_data[:, 1:], axis=1))
