@@ -1,0 +1,16 @@
+OrderID,Date,Region,Salesperson,Category,Units_Sold,Unit_Price,Discount,Total_sales
+101,2024-01-10,North,John,Electronics,10,500,0.05,4750.0
+102,2024-01-15,South,Sara,Furniture,5,1500,0.1,6750.0
+103,2024-01-18,East,Ravi,Stationery,20,50,0.0,1000.0
+104,2024-02-02,West,Amit,Electronics,8,800,0.07,5952.0
+105,2024-02-12,North,Sara,Furniture,3,2000,0.15,5100.0
+106,2024-02-15,South,Ravi,Stationery,25,40,0.0,1000.0
+107,2024-02-20,East,John,Electronics,6,900,0.05,5130.0
+108,2024-03-05,West,Amit,Furniture,4,1700,0.1,6120.0
+109,2024-03-10,North,Sara,Stationery,18,60,0.0,1080.0
+110,2024-03-15,South,Ravi,Electronics,12,700,0.08,7728.0
+111,2024-03-20,East,John,Furniture,7,1600,0.1,10080.0
+112,2024-03-25,West,Amit,Stationery,22,45,0.0,990.0
+113,2024-04-01,North,Sara,Electronics,5,1200,0.05,5700.0
+114,2024-04-08,South,Ravi,Furniture,9,1400,0.12,11088.0
+115,2024-04-12,East,John,Stationery,30,35,0.0,1050.0
