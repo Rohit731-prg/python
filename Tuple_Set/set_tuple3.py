@@ -4,4 +4,5 @@ tp = [(1, 2), (3, 4), (1, 2), (5, 6), (3, 4), (7, 8)]
 
 newSet = set(tp)
 newList = list(newSet)
+print("Original List: ", tp)
 print("List after removing duplicates:", newList)
